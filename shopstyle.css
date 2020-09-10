@@ -1,0 +1,172 @@
+
+
+@media(min-width:600px)
+{
+	.main
+	{
+		height:100px;	
+		display:flex;
+		background-color:white;
+		padding:10px;
+		
+		
+	}
+	#des
+	{
+		font-size:60px;
+		position:absolute;
+		right:10px;
+		top:70px;
+		margin-right:10px;
+	}
+	#showicon
+	{
+		width:30px;
+		height:30px;
+		border-radius:30px;
+		text-align:center;
+		background-color:red;
+		font-size:28px;
+		margin-right:5px;
+		position:absolute;
+		right:8px;
+		top:60px;
+		opacity:0.8;
+	}
+	.header
+	{
+		font-size:50px;
+		font-family: 'Anton', sans-serif;
+	}
+	.cars
+	{
+		height:250px;
+		display:block;	
+		margin-left:auto;
+		margin-right:auto;
+		background-color:white;
+		padding:10px;
+		box-shadow:5px 5px 3px rgb(225,225,225);
+		border-radius:10px;
+		overflow:hidden;
+		
+	}
+	
+		
+	.head1
+	{
+		font-size:40px;
+		margin-left:120px;
+		padding:2px;
+	}
+	.image
+	{
+		padding:20px;
+	}
+	.head2
+	{
+		font-size:40px;
+		margin-left:120px;
+		padding:2px;
+	}
+	.add-cart
+	{
+		font-size:30px;
+		margin-left:120px;
+		
+	}
+	.sing
+	{
+		display:inline;
+	}
+	button
+	{
+		background-color:powderblue;
+		border-radius:5px;
+	}
+}
+@media(max-width:600px)
+{
+	.main
+	{
+		height:100px;	
+		display:flex;
+		background-color:white;
+		padding:10px;
+		
+		
+	}
+	#des
+	{
+		font-size:60px;
+		position:absolute;
+		right:10px;
+		top:70px;
+		margin-right:10px;
+	}
+	#showicon
+	{
+		width:30px;
+		height:30px;
+		border-radius:30px;
+		text-align:center;
+		background-color:red;
+		font-size:28px;
+		margin-right:5px;
+		position:absolute;
+		right:8px;
+		top:60px;
+		opacity:0.8;
+	}
+	.header
+	{
+		font-size:50px;
+		font-family: 'Anton', sans-serif;
+	}
+	.cars
+	{
+		height:250px;
+		display:block;	
+		margin-left:auto;
+		margin-right:auto;
+		background-color:white;
+		padding:10px;
+		box-shadow:5px 5px 3px rgb(225,225,225);
+		border-radius:10px;
+		overflow:hidden;
+		
+	}
+	
+		
+	.head1
+	{
+		font-size:40px;
+		margin-left:120px;
+		padding:2px;
+	}
+	.image
+	{
+		padding:20px;
+	}
+	.head2
+	{
+		font-size:40px;
+		margin-left:120px;
+		padding:2px;
+	}
+	.add-cart
+	{
+		font-size:30px;
+		margin-left:120px;
+		
+	}
+	.sing
+	{
+		display:inline;
+	}
+	button
+	{
+		background-color:powderblue;
+		border-radius:5px;
+	}
+}
